@@ -36,4 +36,4 @@ Install required libraries:
 ```bash
 pip install fastapi uvicorn requests numpy opencv-python pillow plotly openai
 
-Final crack detection system update
+Final crack detection system updategit status
